@@ -1,6 +1,6 @@
 ## Access the Notebook:
 
-[Open the Jupyter Notebook on GitHub](https://github.com/MuhammadAbbas01/Predict-Child-Mortality)
+https://github.com/MuhammadAbbas01/Predict-Child-Mortality/blob/main/unsupervised.ipynb
 
 # Predicting Child Mortality Using Unsupervised Learning on Socio-Economic Data
 
