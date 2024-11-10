@@ -1,3 +1,8 @@
+## Access the Notebook:
+
+- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadAbbas01/Predict-Child-Mortality/blob/main/CNNs.ipynb)
+- [View this notebook in nbviewer](https://nbviewer.org/github/MuhammadAbbas01/Predict-Child-Mortality/blob/main/CNNs.ipynb)
+
 # Predicting Child Mortality Using Unsupervised Learning on Socio-Economic Data
 
 ## Overview
