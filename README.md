@@ -1,6 +1,6 @@
 ## Access the Notebook:
 
-- [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange)](https://nbviewer.org/github/MuhammadAbbas01/Predict-Child-Mortality/blob/main/README.md)
+[Open the Jupyter Notebook on GitHub](https://github.com/MuhammadAbbas01/Predict-Child-Mortality)
 
 # Predicting Child Mortality Using Unsupervised Learning on Socio-Economic Data
 
