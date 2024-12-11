@@ -27,3 +27,7 @@ Future work includes refining clustering models, incorporating additional data, 
 
 - **Python**
 - **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
