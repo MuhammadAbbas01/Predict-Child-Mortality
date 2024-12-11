@@ -28,6 +28,12 @@ Future work includes refining clustering models, incorporating additional data, 
 - **Python**
 - **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
-## License
+# Predict Child Mortality Project
 
-This project is licensed under the [MIT License](LICENSE).
+## 📢 Request for Feedback
+I welcome feedback, suggestions, and reviews for this project.  
+If you find any issues or have suggestions for improvement, feel free to open an issue or comment in Discussions!
+
+- 💬 **Discussions**: [Click here to share feedback or thoughts](https://github.com/MuhammadAbbas01/Predict-Child-Mortality/discussions)  
+- 🐛 **Open an Issue**: [Click here to report a problem](https://github.com/MuhammadAbbas01/Predict-Child-Mortality/issues)
+
